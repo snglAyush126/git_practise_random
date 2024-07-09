@@ -4,6 +4,7 @@ const app = () => {
   return (
     <div>
       new
+      Added new line
     </div>
   )
 }
